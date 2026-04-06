@@ -1,6 +1,7 @@
 # beYoungbeSimple
 ## 基本信息
 - GitHub：[beYoungbeSimple](https://github.com/beYoungbeSimple)
+- 邮箱：3245586148@qq.com
 ## 技术栈 
 - 编程语言：Python, C/C++, MATLAB
 - 前端/界面开发：PyQt, Qt Designer(C++)
