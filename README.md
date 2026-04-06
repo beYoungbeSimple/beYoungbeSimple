@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**beYoungbeSimple/beYoungbeSimple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# beYoungbeSimple
+## 基本信息
+- GitHub：[beYoungbeSimple](https://github.com/beYoungbeSimple)
+## 技术栈 
+- 编程语言：Python, C/C++, MATLAB
+- 前端/界面开发：PyQt, Qt Designer(C++)
+- 嵌入式硬件开发：STM32, Arduino, C51, Keil, CubeMX; GPIO/UART/PWM
+- 开发工具：VS Code, PyCharm, Trae, Codex, Linux, Git
+- 深度学习：PyTorch, YOLO, Prompt Engineering
+## 学习方向
+- 机器学习/深度学习
+- 控制工程
+- 硬件开发
+- 网络安全
